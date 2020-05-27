@@ -185,7 +185,7 @@ So what do the different parts mean?
 +---------------+-------------------------------------------------------------+
 | ``actions``   | things your assistant can do and say                        |
 +---------------+-------------------------------------------------------------+
-| ``responses`` | response strings for the things your assistant can say      |
+| ``responses`` | responses for the things your assistant can say             |
 +---------------+-------------------------------------------------------------+
 
 
